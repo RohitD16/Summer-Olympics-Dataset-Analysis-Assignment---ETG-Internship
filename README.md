@@ -3,4 +3,4 @@ In this Repository, I have Analysed the Summer Olympics Dataset and Created some
 
 There are 2 files in this repository:
 1. summer.csv => Summer Olympic Dataset
-2. Summer.ipynb => Jupyter Notebook containing Dataset Analysis and respective Graphs
+2. Summer Olympic Dataset Analysis Assignment.ipynb => Jupyter Notebook containing Dataset Analysis and respective Graphs
